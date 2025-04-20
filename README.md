@@ -92,7 +92,7 @@ This project presents a comparative performance study of different **clustering 
 
 
 ### 📊 Silhouette Scores 
-![Silhouette Score](/silhouette)
+![Silhouette Score](/silhoutte)
 
 ### 🧬 Calinski-Harabasz Index
 ![Calinski-Harabasz Index](/calinski)
