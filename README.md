@@ -92,13 +92,13 @@ This project presents a comparative performance study of different **clustering 
 
 
 ### 📊 Silhouette Scores 
-![Silhouette Score](/silhouette.png)
+![Silhouette Score](/silhouette)
 
 ### 🧬 Calinski-Harabasz Index
-![Calinski-Harabasz Index](/calinski.png)
+![Calinski-Harabasz Index](/calinski)
 
 ### 🧮 Davies-Bouldin
-![Davies-Bouldin Score](davis.png)
+![Davies-Bouldin Score](davis)
 
 
 ---
